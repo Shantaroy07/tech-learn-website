@@ -1,0 +1,12 @@
+.carousel-item img {
+    height: 100vh;
+    object-fit: cover;
+}
+
+.brightness {
+    filter: brightness(50%);
+}
+
+.bg-color {
+    background-color: lavender;
+}
